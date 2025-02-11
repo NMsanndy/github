@@ -1,1 +1,4 @@
 creatre test1.txt file
+"ConnectionStrings": {
+    "DefaultConnection": "Server=YOUR_SERVER;Database=DJBookingDB;Trusted_Connection=True;"
+}
