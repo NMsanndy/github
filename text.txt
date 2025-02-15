@@ -1,4 +1,0 @@
-
-"ConnectionStrings": {
-    "DefaultConnection": "Server=YOUR_SERVER;Database=DJBookingDB;Trusted_Connection=True;"
-}
